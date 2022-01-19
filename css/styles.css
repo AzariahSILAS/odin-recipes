@@ -1,0 +1,29 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    margin-left: 25%;
+}
+.header{
+    background-color:  grey;
+    height: 100px;
+    width: 900px;
+    text-align: center;
+    padding-top: 19px;
+}
+ .photo{
+     
+ }
+
+a{
+    text-decoration: none;
+    color: black;
+
+    
+    
+
+}
+.recipes{
+    padding: 20px 0 20px 0;
+    text-align: center;
+    }
